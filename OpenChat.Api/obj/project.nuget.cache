@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hwame3CkTsaxuj3FsDBbPzDju63kLFBFD4st/we/TmJSHW8/g9rR6RQuoqi6axsf8kIcx1wmBPQi1lLnKyNbWw==",
+  "dgSpecHash": "PTdXS6nRouJB8qNanSmJTD3BMF9ylAvfAthDniEGa3YnjJPcAuBYG56NuOf5aeXD/uU9A4Pvayy+0D9ywi2EOA==",
   "success": true,
-  "projectFilePath": "C:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Api\\OpenChat.Api.csproj",
+  "projectFilePath": "c:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Api\\OpenChat.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mhris\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.8\\microsoft.entityframeworkcore.6.0.8.nupkg.sha512",
     "C:\\Users\\mhris\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.8\\microsoft.entityframeworkcore.abstractions.6.0.8.nupkg.sha512",

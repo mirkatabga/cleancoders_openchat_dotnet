@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9X55k+qPTWmPnPY63H5QLaPh3hGUm8D7PAVKP90uCkuiMIxXHtH51BbF62YSIpEHGPsJ3fB1L7i8XxmA5i1HnA==",
+  "dgSpecHash": "/NnVQb0hRkqhGiK8tYAQQ1vrtKFe8aSJIkI6GpYpfpkXTyoVjTM30P5dogQL+0VPRveI5gApy9PlXCDezeDXjw==",
   "success": true,
-  "projectFilePath": "C:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Tests.Common\\OpenChat.Tests.Common.csproj",
+  "projectFilePath": "c:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Tests.Common\\OpenChat.Tests.Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

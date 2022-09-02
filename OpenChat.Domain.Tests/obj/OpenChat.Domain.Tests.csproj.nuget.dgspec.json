@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Domain.Tests\\OpenChat.Domain.Tests.csproj": {}
+    "c:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Domain.Tests\\OpenChat.Domain.Tests.csproj": {}
   },
   "projects": {
-    "C:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Domain.Tests\\OpenChat.Domain.Tests.csproj": {
+    "c:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Domain.Tests\\OpenChat.Domain.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Domain.Tests\\OpenChat.Domain.Tests.csproj",
+        "projectUniqueName": "c:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Domain.Tests\\OpenChat.Domain.Tests.csproj",
         "projectName": "OpenChat.Domain.Tests",
-        "projectPath": "C:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Domain.Tests\\OpenChat.Domain.Tests.csproj",
+        "projectPath": "c:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Domain.Tests\\OpenChat.Domain.Tests.csproj",
         "packagesPath": "C:\\Users\\mhris\\.nuget\\packages\\",
-        "outputPath": "C:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Domain.Tests\\obj\\",
+        "outputPath": "c:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Domain.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mhris\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,14 +26,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Domain\\OpenChat.Domain.csproj": {
-                "projectPath": "C:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Domain\\OpenChat.Domain.csproj"
+              "c:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Domain\\OpenChat.Domain.csproj": {
+                "projectPath": "c:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Domain\\OpenChat.Domain.csproj"
               },
-              "C:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Infrastructure\\OpenChat.Infrastructure.csproj": {
-                "projectPath": "C:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Infrastructure\\OpenChat.Infrastructure.csproj"
+              "c:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Infrastructure\\OpenChat.Infrastructure.csproj": {
+                "projectPath": "c:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Infrastructure\\OpenChat.Infrastructure.csproj"
               },
-              "C:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Tests.Common\\OpenChat.Tests.Common.csproj": {
-                "projectPath": "C:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Tests.Common\\OpenChat.Tests.Common.csproj"
+              "c:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Tests.Common\\OpenChat.Tests.Common.csproj": {
+                "projectPath": "c:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Tests.Common\\OpenChat.Tests.Common.csproj"
               }
             }
           }
@@ -92,14 +92,14 @@
         }
       }
     },
-    "C:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Domain\\OpenChat.Domain.csproj": {
+    "c:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Domain\\OpenChat.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Domain\\OpenChat.Domain.csproj",
+        "projectUniqueName": "c:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Domain\\OpenChat.Domain.csproj",
         "projectName": "OpenChat.Domain",
-        "projectPath": "C:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Domain\\OpenChat.Domain.csproj",
+        "projectPath": "c:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Domain\\OpenChat.Domain.csproj",
         "packagesPath": "C:\\Users\\mhris\\.nuget\\packages\\",
-        "outputPath": "C:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Domain\\obj\\",
+        "outputPath": "c:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mhris\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -144,14 +144,14 @@
         }
       }
     },
-    "C:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Infrastructure\\OpenChat.Infrastructure.csproj": {
+    "c:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Infrastructure\\OpenChat.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Infrastructure\\OpenChat.Infrastructure.csproj",
+        "projectUniqueName": "c:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Infrastructure\\OpenChat.Infrastructure.csproj",
         "projectName": "OpenChat.Infrastructure",
-        "projectPath": "C:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Infrastructure\\OpenChat.Infrastructure.csproj",
+        "projectPath": "c:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Infrastructure\\OpenChat.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\mhris\\.nuget\\packages\\",
-        "outputPath": "C:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Infrastructure\\obj\\",
+        "outputPath": "c:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mhris\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -166,8 +166,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Domain\\OpenChat.Domain.csproj": {
-                "projectPath": "C:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Domain\\OpenChat.Domain.csproj"
+              "c:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Domain\\OpenChat.Domain.csproj": {
+                "projectPath": "c:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Domain\\OpenChat.Domain.csproj"
               }
             }
           }
@@ -210,14 +210,14 @@
         }
       }
     },
-    "C:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Tests.Common\\OpenChat.Tests.Common.csproj": {
+    "c:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Tests.Common\\OpenChat.Tests.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Tests.Common\\OpenChat.Tests.Common.csproj",
+        "projectUniqueName": "c:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Tests.Common\\OpenChat.Tests.Common.csproj",
         "projectName": "OpenChat.Tests.Common",
-        "projectPath": "C:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Tests.Common\\OpenChat.Tests.Common.csproj",
+        "projectPath": "c:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Tests.Common\\OpenChat.Tests.Common.csproj",
         "packagesPath": "C:\\Users\\mhris\\.nuget\\packages\\",
-        "outputPath": "C:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Tests.Common\\obj\\",
+        "outputPath": "c:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Tests.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mhris\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -232,8 +232,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Domain\\OpenChat.Domain.csproj": {
-                "projectPath": "C:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Domain\\OpenChat.Domain.csproj"
+              "c:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Domain\\OpenChat.Domain.csproj": {
+                "projectPath": "c:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Domain\\OpenChat.Domain.csproj"
               }
             }
           }
