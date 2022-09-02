@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JlyRy5oGXdW+sw555kVeu7IoPPEE2XCU+/lrOiauIHJcC6Ty6+yfkYC9b9HnauS5jH9FYQTxFN0+0fthZFSyRQ==",
+  "dgSpecHash": "xfOwy++nFI9JtZoR7Nb25gXBpLfyL9JeKFE8EFbFI0S6pGQCuElIU0U07lHjDS3ktCMVVI+wmgFazfW7K7Cp2w==",
   "success": true,
-  "projectFilePath": "c:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Api.Tests\\OpenChat.Api.Tests.csproj",
+  "projectFilePath": "C:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Api.Tests\\OpenChat.Api.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mhris\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",
     "C:\\Users\\mhris\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",

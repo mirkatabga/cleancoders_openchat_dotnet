@@ -1,3 +1,11 @@
 {
-    "markiscodecoverage.searchCriteria": ""
+    "markiscodecoverage.searchCriteria": "",
+    "cSpell.words": [
+        "ASPNET",
+        "docstates",
+        "ionide",
+        "userosscache",
+        "userprefs",
+        "vsix"
+    ]
 }

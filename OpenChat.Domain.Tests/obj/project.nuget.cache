@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zhBAVM0KYnoOdn1/ZnydCcOcgcv47kazItqFuERM35+NriuHBBMO0Xwu7UAc5ZqRLFzWpl3LBmf36uIegvyoog==",
+  "dgSpecHash": "jWz8pVonAVqOHYBfJGnaiDqeT9v1dku0chlCptK5jCTDik7U1qHFTn3OgAa33Zj0gU0wD8Bb0CGBy4nulPl1ig==",
   "success": true,
-  "projectFilePath": "c:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Domain.Tests\\OpenChat.Domain.Tests.csproj",
+  "projectFilePath": "C:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Domain.Tests\\OpenChat.Domain.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mhris\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\mhris\\.nuget\\packages\\fluentassertions\\6.7.0\\fluentassertions.6.7.0.nupkg.sha512",
