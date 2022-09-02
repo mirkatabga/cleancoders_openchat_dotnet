@@ -1,2 +1,0 @@
-OpenChat.DeliveryMechanisms.Api.Tests.AccountControllerTests.Register_ValidUser_CreatesCorrectAccount
-OpenChat.DeliveryMechanisms.Api.Tests.AccountControllerTests.Register_WithDuplicateUsername_ReturnsBadRequest
