@@ -1,0 +1,567 @@
+SF:C:\TestProjects\cleancoders_openchat_dotnet\OpenChat.Domain\Users\User.cs
+FN:19,System.String OpenChat.Domain.Users.User::get_Id()
+FNDA:51,System.String OpenChat.Domain.Users.User::get_Id()
+DA:20,51
+FN:21,System.String OpenChat.Domain.Users.User::get_Username()
+FNDA:48,System.String OpenChat.Domain.Users.User::get_Username()
+DA:22,48
+FN:23,System.String OpenChat.Domain.Users.User::get_Password()
+FNDA:43,System.String OpenChat.Domain.Users.User::get_Password()
+DA:24,43
+FN:25,System.String OpenChat.Domain.Users.User::get_About()
+FNDA:37,System.String OpenChat.Domain.Users.User::get_About()
+DA:26,37
+FN:28,System.Void OpenChat.Domain.Users.User::Validate(System.String,System.String,System.String)
+FNDA:24,System.Void OpenChat.Domain.Users.User::Validate(System.String,System.String,System.String)
+DA:29,24
+DA:30,24
+DA:31,0
+DA:32,0
+DA:35,24
+DA:36,0
+DA:37,0
+DA:40,24
+DA:41,0
+DA:42,0
+DA:44,24
+BRDA:30,9,0,0
+BRDA:30,9,1,24
+BRDA:35,31,0,0
+BRDA:35,31,1,24
+BRDA:40,53,0,0
+BRDA:40,53,1,24
+FN:4,System.Void OpenChat.Domain.Users.User::.ctor(System.String,System.String,System.String)
+FNDA:24,System.Void OpenChat.Domain.Users.User::.ctor(System.String,System.String,System.String)
+DA:5,24
+DA:6,24
+DA:7,24
+DA:9,24
+DA:10,24
+DA:11,24
+DA:12,24
+FN:14,System.Void OpenChat.Domain.Users.User::.ctor(System.String,System.String,System.String,System.String)
+FNDA:24,System.Void OpenChat.Domain.Users.User::.ctor(System.String,System.String,System.String,System.String)
+DA:15,24
+DA:16,24
+DA:17,24
+DA:18,24
+LF:26
+LH:20
+BRF:6
+BRH:3
+FNF:7
+FNH:7
+end_of_record
+SF:C:\TestProjects\cleancoders_openchat_dotnet\OpenChat.Domain\Users\UserDto.cs
+FN:16,System.String OpenChat.Domain.Users.UserDto::get_Username()
+FNDA:30,System.String OpenChat.Domain.Users.UserDto::get_Username()
+DA:17,30
+FN:18,System.String OpenChat.Domain.Users.UserDto::get_Password()
+FNDA:15,System.String OpenChat.Domain.Users.UserDto::get_Password()
+DA:19,15
+FN:20,System.String OpenChat.Domain.Users.UserDto::get_About()
+FNDA:13,System.String OpenChat.Domain.Users.UserDto::get_About()
+DA:21,13
+FN:4,System.Void OpenChat.Domain.Users.UserDto::.ctor(System.String,System.String)
+FNDA:7,System.Void OpenChat.Domain.Users.UserDto::.ctor(System.String,System.String)
+DA:5,7
+DA:6,7
+DA:7,7
+DA:8,7
+DA:9,7
+FN:11,System.Void OpenChat.Domain.Users.UserDto::.ctor(System.String,System.String,System.String)
+FNDA:6,System.Void OpenChat.Domain.Users.UserDto::.ctor(System.String,System.String,System.String)
+DA:12,6
+DA:13,6
+DA:14,6
+DA:15,6
+LF:12
+LH:12
+BRF:0
+BRH:0
+FNF:5
+FNH:5
+end_of_record
+SF:C:\TestProjects\cleancoders_openchat_dotnet\OpenChat.Domain\Users\UsersService.cs
+FN:14,OpenChat.Domain.Users.Results.CreateUserResult OpenChat.Domain.Users.UsersService::Create(OpenChat.Domain.Users.UserDto)
+FNDA:15,OpenChat.Domain.Users.Results.CreateUserResult OpenChat.Domain.Users.UsersService::Create(OpenChat.Domain.Users.UserDto)
+DA:15,15
+DA:16,15
+DA:17,3
+DA:18,3
+DA:21,12
+DA:22,12
+DA:23,12
+DA:24,12
+DA:25,12
+DA:26,12
+DA:28,12
+DA:30,12
+DA:31,15
+BRDA:16,20,0,3
+BRDA:16,20,1,12
+FN:33,OpenChat.Domain.Users.Results.GetUserResult OpenChat.Domain.Users.UsersService::GetByCredentials(System.String,System.String)
+FNDA:6,OpenChat.Domain.Users.Results.GetUserResult OpenChat.Domain.Users.UsersService::GetByCredentials(System.String,System.String)
+DA:34,6
+DA:35,6
+DA:36,6
+DA:37,6
+DA:38,6
+DA:39,6
+DA:41,6
+DA:42,4
+DA:43,4
+DA:46,2
+DA:47,6
+BRDA:41,249,0,4
+BRDA:41,249,1,2
+FN:8,System.Void OpenChat.Domain.Users.UsersService::.ctor(OpenChat.Domain.Users.IUsersRepository)
+FNDA:20,System.Void OpenChat.Domain.Users.UsersService::.ctor(OpenChat.Domain.Users.IUsersRepository)
+DA:9,20
+DA:10,20
+DA:11,20
+DA:12,20
+LF:28
+LH:28
+BRF:4
+BRH:4
+FNF:3
+FNH:3
+end_of_record
+SF:C:\TestProjects\cleancoders_openchat_dotnet\OpenChat.Domain\Users\Results\CreateUserResult.cs
+FN:15,OpenChat.Domain.Users.Results.CreateUserResult OpenChat.Domain.Users.Results.CreateUserResult::Success(OpenChat.Domain.Users.User)
+FNDA:12,OpenChat.Domain.Users.Results.CreateUserResult OpenChat.Domain.Users.Results.CreateUserResult::Success(OpenChat.Domain.Users.User)
+DA:16,12
+DA:17,12
+DA:18,12
+FN:20,OpenChat.Domain.Users.Results.CreateUserResult OpenChat.Domain.Users.Results.CreateUserResult::Error(OpenChat.Domain.Users.Results.CreateUserError)
+FNDA:3,OpenChat.Domain.Users.Results.CreateUserResult OpenChat.Domain.Users.Results.CreateUserResult::Error(OpenChat.Domain.Users.Results.CreateUserError)
+DA:21,3
+DA:22,3
+DA:23,3
+FN:6,System.Void OpenChat.Domain.Users.Results.CreateUserResult::.ctor(OpenChat.Domain.Users.User)
+FNDA:12,System.Void OpenChat.Domain.Users.Results.CreateUserResult::.ctor(OpenChat.Domain.Users.User)
+DA:7,12
+DA:8,12
+DA:9,12
+FN:10,System.Void OpenChat.Domain.Users.Results.CreateUserResult::.ctor(OpenChat.Domain.Users.Results.CreateUserError)
+FNDA:3,System.Void OpenChat.Domain.Users.Results.CreateUserResult::.ctor(OpenChat.Domain.Users.Results.CreateUserError)
+DA:11,3
+DA:12,3
+DA:13,3
+LF:12
+LH:12
+BRF:0
+BRH:0
+FNF:4
+FNH:4
+end_of_record
+SF:C:\TestProjects\cleancoders_openchat_dotnet\OpenChat.Domain\Users\Results\GetUserResult.cs
+FN:15,OpenChat.Domain.Users.Results.GetUserResult OpenChat.Domain.Users.Results.GetUserResult::Success(OpenChat.Domain.Users.User)
+FNDA:2,OpenChat.Domain.Users.Results.GetUserResult OpenChat.Domain.Users.Results.GetUserResult::Success(OpenChat.Domain.Users.User)
+DA:16,2
+DA:17,2
+DA:18,2
+FN:20,OpenChat.Domain.Users.Results.GetUserResult OpenChat.Domain.Users.Results.GetUserResult::Error(OpenChat.Domain.Users.Results.GetUserError)
+FNDA:4,OpenChat.Domain.Users.Results.GetUserResult OpenChat.Domain.Users.Results.GetUserResult::Error(OpenChat.Domain.Users.Results.GetUserError)
+DA:21,4
+DA:22,4
+DA:23,4
+FN:6,System.Void OpenChat.Domain.Users.Results.GetUserResult::.ctor(OpenChat.Domain.Users.User)
+FNDA:2,System.Void OpenChat.Domain.Users.Results.GetUserResult::.ctor(OpenChat.Domain.Users.User)
+DA:7,2
+DA:8,2
+DA:9,2
+FN:10,System.Void OpenChat.Domain.Users.Results.GetUserResult::.ctor(OpenChat.Domain.Users.Results.GetUserError)
+FNDA:4,System.Void OpenChat.Domain.Users.Results.GetUserResult::.ctor(OpenChat.Domain.Users.Results.GetUserError)
+DA:11,4
+DA:12,4
+DA:13,4
+LF:12
+LH:12
+BRF:0
+BRH:0
+FNF:4
+FNH:4
+end_of_record
+SF:C:\TestProjects\cleancoders_openchat_dotnet\OpenChat.Domain\Posts\Post.cs
+FN:15,System.Guid OpenChat.Domain.Posts.Post::get_Id()
+FNDA:4,System.Guid OpenChat.Domain.Posts.Post::get_Id()
+DA:16,4
+FN:17,System.String OpenChat.Domain.Posts.Post::get_Text()
+FNDA:4,System.String OpenChat.Domain.Posts.Post::get_Text()
+DA:18,4
+FN:19,System.String OpenChat.Domain.Posts.Post::get_UserId()
+FNDA:6,System.String OpenChat.Domain.Posts.Post::get_UserId()
+DA:20,6
+FN:21,OpenChat.Domain.Users.User OpenChat.Domain.Posts.Post::get_User()
+FNDA:0,OpenChat.Domain.Users.User OpenChat.Domain.Posts.Post::get_User()
+DA:22,0
+FN:23,System.DateTime OpenChat.Domain.Posts.Post::get_CreatedDate()
+FNDA:4,System.DateTime OpenChat.Domain.Posts.Post::get_CreatedDate()
+DA:24,4
+FN:26,System.Void OpenChat.Domain.Posts.Post::Validate(System.String,System.String)
+FNDA:3,System.Void OpenChat.Domain.Posts.Post::Validate(System.String,System.String)
+DA:27,3
+DA:28,3
+DA:29,0
+DA:30,0
+DA:33,3
+DA:34,0
+DA:35,0
+DA:37,3
+BRDA:28,9,0,0
+BRDA:28,9,1,3
+BRDA:33,31,0,0
+BRDA:33,31,1,3
+FN:6,System.Void OpenChat.Domain.Posts.Post::.ctor(System.String,System.String)
+FNDA:3,System.Void OpenChat.Domain.Posts.Post::.ctor(System.String,System.String)
+DA:7,3
+DA:8,3
+DA:9,3
+DA:11,3
+DA:12,3
+DA:13,3
+DA:14,3
+LF:20
+LH:15
+BRF:4
+BRH:2
+FNF:7
+FNH:6
+end_of_record
+SF:C:\TestProjects\cleancoders_openchat_dotnet\OpenChat.Domain\Posts\PostDto.cs
+FN:10,System.String OpenChat.Domain.Posts.PostDto::get_UserId()
+FNDA:18,System.String OpenChat.Domain.Posts.PostDto::get_UserId()
+DA:11,18
+FN:12,System.String OpenChat.Domain.Posts.PostDto::get_Text()
+FNDA:11,System.String OpenChat.Domain.Posts.PostDto::get_Text()
+DA:13,11
+FN:4,System.Void OpenChat.Domain.Posts.PostDto::.ctor(System.String,System.String)
+FNDA:10,System.Void OpenChat.Domain.Posts.PostDto::.ctor(System.String,System.String)
+DA:5,10
+DA:6,10
+DA:7,10
+DA:8,10
+DA:9,10
+LF:7
+LH:7
+BRF:0
+BRH:0
+FNF:3
+FNH:3
+end_of_record
+SF:C:\TestProjects\cleancoders_openchat_dotnet\OpenChat.Domain\Posts\PostsService.cs
+FN:17,OpenChat.Domain.Posts.Results.CreatePostResult OpenChat.Domain.Posts.PostsService::Create(OpenChat.Domain.Posts.PostDto)
+FNDA:11,OpenChat.Domain.Posts.Results.CreatePostResult OpenChat.Domain.Posts.PostsService::Create(OpenChat.Domain.Posts.PostDto)
+DA:18,11
+DA:19,11
+DA:21,4
+DA:23,4
+DA:24,1
+DA:25,1
+DA:28,3
+DA:29,3
+DA:30,3
+DA:32,3
+DA:34,3
+DA:35,4
+BRDA:23,33,0,1
+BRDA:23,33,1,3
+FN:37,System.Collections.Generic.IReadOnlyCollection`1<OpenChat.Domain.Posts.Post> OpenChat.Domain.Posts.PostsService::GetPostsForUser(System.String)
+FNDA:1,System.Collections.Generic.IReadOnlyCollection`1<OpenChat.Domain.Posts.Post> OpenChat.Domain.Posts.PostsService::GetPostsForUser(System.String)
+DA:38,1
+DA:39,1
+DA:41,1
+DA:42,1
+BRDA:41,21,0,1
+BRDA:41,21,1,1
+FN:44,System.Void OpenChat.Domain.Posts.PostsService::ValidateCreate(OpenChat.Domain.Posts.PostDto)
+FNDA:11,System.Void OpenChat.Domain.Posts.PostsService::ValidateCreate(OpenChat.Domain.Posts.PostDto)
+DA:45,11
+DA:46,11
+DA:47,1
+DA:48,1
+DA:51,10
+DA:52,3
+DA:53,3
+DA:56,7
+DA:57,3
+DA:58,3
+DA:60,4
+BRDA:46,7,0,1
+BRDA:46,7,1,10
+BRDA:51,34,0,3
+BRDA:51,34,1,7
+BRDA:56,61,0,3
+BRDA:56,61,1,4
+FN:10,System.Void OpenChat.Domain.Posts.PostsService::.ctor(OpenChat.Domain.Users.IUsersRepository,OpenChat.Domain.Posts.IPostsRepository)
+FNDA:10,System.Void OpenChat.Domain.Posts.PostsService::.ctor(OpenChat.Domain.Users.IUsersRepository,OpenChat.Domain.Posts.IPostsRepository)
+DA:11,10
+DA:12,10
+DA:13,10
+DA:14,10
+DA:15,10
+LF:32
+LH:32
+BRF:10
+BRH:10
+FNF:4
+FNH:4
+end_of_record
+SF:C:\TestProjects\cleancoders_openchat_dotnet\OpenChat.Domain\Posts\Results\CreatePostResult.cs
+FN:14,OpenChat.Domain.Posts.Results.CreatePostResult OpenChat.Domain.Posts.Results.CreatePostResult::Success(OpenChat.Domain.Posts.Post)
+FNDA:3,OpenChat.Domain.Posts.Results.CreatePostResult OpenChat.Domain.Posts.Results.CreatePostResult::Success(OpenChat.Domain.Posts.Post)
+DA:15,3
+FN:17,OpenChat.Domain.Posts.Results.CreatePostResult OpenChat.Domain.Posts.Results.CreatePostResult::Error(OpenChat.Domain.Posts.Results.CreatePostError)
+FNDA:1,OpenChat.Domain.Posts.Results.CreatePostResult OpenChat.Domain.Posts.Results.CreatePostResult::Error(OpenChat.Domain.Posts.Results.CreatePostError)
+DA:18,1
+FN:6,System.Void OpenChat.Domain.Posts.Results.CreatePostResult::.ctor(OpenChat.Domain.Posts.Post)
+FNDA:3,System.Void OpenChat.Domain.Posts.Results.CreatePostResult::.ctor(OpenChat.Domain.Posts.Post)
+DA:7,3
+DA:8,3
+DA:9,3
+FN:10,System.Void OpenChat.Domain.Posts.Results.CreatePostResult::.ctor(OpenChat.Domain.Posts.Results.CreatePostError)
+FNDA:1,System.Void OpenChat.Domain.Posts.Results.CreatePostResult::.ctor(OpenChat.Domain.Posts.Results.CreatePostError)
+DA:11,1
+DA:12,1
+DA:13,1
+LF:8
+LH:8
+BRF:0
+BRH:0
+FNF:4
+FNH:4
+end_of_record
+SF:C:\TestProjects\cleancoders_openchat_dotnet\OpenChat.Domain\Exceptions\UnexpectedEnumValueException.cs
+FN:5,System.Void OpenChat.Domain.Exceptions.UnexpectedEnumValueException`1::.ctor(T)
+FNDA:1,System.Void OpenChat.Domain.Exceptions.UnexpectedEnumValueException`1::.ctor(T)
+DA:6,1
+DA:7,1
+DA:8,1
+BRDA:6,25,0,0
+BRDA:6,25,1,1
+LF:3
+LH:3
+BRF:2
+BRH:1
+FNF:1
+FNH:1
+end_of_record
+SF:C:\TestProjects\cleancoders_openchat_dotnet\OpenChat.Domain\Common\Result.cs
+FN:25,System.Boolean OpenChat.Domain.Common.Result`2::get_IsSuccess()
+FNDA:6,System.Boolean OpenChat.Domain.Common.Result`2::get_IsSuccess()
+DA:26,6
+FN:27,System.Boolean OpenChat.Domain.Common.Result`2::get_IsFailed()
+FNDA:10,System.Boolean OpenChat.Domain.Common.Result`2::get_IsFailed()
+DA:28,10
+FN:29,TValue OpenChat.Domain.Common.Result`2::get_Value()
+FNDA:14,TValue OpenChat.Domain.Common.Result`2::get_Value()
+DA:30,14
+FN:31,TEnum OpenChat.Domain.Common.Result`2::get_Reason()
+FNDA:9,TEnum OpenChat.Domain.Common.Result`2::get_Reason()
+DA:32,9
+FN:6,System.Void OpenChat.Domain.Common.Result`2::.ctor(TValue)
+FNDA:19,System.Void OpenChat.Domain.Common.Result`2::.ctor(TValue)
+DA:7,19
+DA:8,19
+DA:9,19
+DA:10,18
+DA:11,18
+BRDA:9,17,0,1
+BRDA:9,17,1,18
+FN:12,System.Void OpenChat.Domain.Common.Result`2::.ctor(TEnum)
+FNDA:10,System.Void OpenChat.Domain.Common.Result`2::.ctor(TEnum)
+DA:13,10
+DA:14,10
+DA:15,10
+DA:17,10
+DA:18,1
+DA:19,1
+DA:22,9
+DA:23,9
+DA:24,9
+BRDA:17,36,0,1
+BRDA:17,36,1,9
+LF:18
+LH:18
+BRF:4
+BRH:4
+FNF:6
+FNH:6
+end_of_record
+SF:C:\TestProjects\cleancoders_openchat_dotnet\OpenChat.Infrastructure\Persistence\OpenChatDbContext.cs
+FN:12,Microsoft.EntityFrameworkCore.DbSet`1<OpenChat.Domain.Users.User> OpenChat.Infrastructure.Persistence.OpenChatDbContext::get_Users()
+FNDA:0,Microsoft.EntityFrameworkCore.DbSet`1<OpenChat.Domain.Users.User> OpenChat.Infrastructure.Persistence.OpenChatDbContext::get_Users()
+DA:13,0
+FN:8,System.Void OpenChat.Infrastructure.Persistence.OpenChatDbContext::.ctor(Microsoft.EntityFrameworkCore.DbContextOptions`1<OpenChat.Infrastructure.Persistence.OpenChatDbContext>)
+FNDA:0,System.Void OpenChat.Infrastructure.Persistence.OpenChatDbContext::.ctor(Microsoft.EntityFrameworkCore.DbContextOptions`1<OpenChat.Infrastructure.Persistence.OpenChatDbContext>)
+DA:9,0
+DA:10,0
+DA:11,0
+LF:4
+LH:0
+BRF:0
+BRH:0
+FNF:2
+FNH:0
+end_of_record
+SF:C:\TestProjects\cleancoders_openchat_dotnet\OpenChat.Infrastructure\Persistence\Repositories\EfUsersRepository.cs
+FN:19,OpenChat.Domain.Users.User OpenChat.Infrastructure.Persistence.Repositories.EfUsersRepository::Add(OpenChat.Domain.Users.User)
+FNDA:0,OpenChat.Domain.Users.User OpenChat.Infrastructure.Persistence.Repositories.EfUsersRepository::Add(OpenChat.Domain.Users.User)
+DA:20,0
+DA:21,0
+DA:22,0
+DA:23,0
+DA:26,0
+DA:27,0
+DA:29,0
+DA:30,0
+BRDA:21,7,0,0
+BRDA:21,7,1,0
+FN:32,System.Boolean OpenChat.Infrastructure.Persistence.Repositories.EfUsersRepository::DoesUsernameExists(System.String)
+FNDA:0,System.Boolean OpenChat.Infrastructure.Persistence.Repositories.EfUsersRepository::DoesUsernameExists(System.String)
+DA:33,0
+DA:34,0
+DA:35,0
+DA:36,0
+DA:39,0
+DA:40,0
+BRDA:34,27,0,0
+BRDA:34,27,1,0
+FN:42,System.Collections.Generic.IEnumerable`1<OpenChat.Domain.Users.User> OpenChat.Infrastructure.Persistence.Repositories.EfUsersRepository::Get(System.Linq.Expressions.Expression`1<System.Func`2<OpenChat.Domain.Users.User,System.Boolean>>)
+FNDA:0,System.Collections.Generic.IEnumerable`1<OpenChat.Domain.Users.User> OpenChat.Infrastructure.Persistence.Repositories.EfUsersRepository::Get(System.Linq.Expressions.Expression`1<System.Func`2<OpenChat.Domain.Users.User,System.Boolean>>)
+DA:43,0
+DA:44,0
+DA:45,0
+DA:46,0
+DA:49,0
+DA:51,0
+DA:52,0
+BRDA:44,7,0,0
+BRDA:44,7,1,0
+FN:54,OpenChat.Domain.Users.User OpenChat.Infrastructure.Persistence.Repositories.EfUsersRepository::GetById(System.String)
+FNDA:0,OpenChat.Domain.Users.User OpenChat.Infrastructure.Persistence.Repositories.EfUsersRepository::GetById(System.String)
+DA:55,0
+DA:56,0
+DA:57,0
+DA:58,0
+DA:61,0
+DA:62,0
+BRDA:56,27,0,0
+BRDA:56,27,1,0
+FN:11,System.Void OpenChat.Infrastructure.Persistence.Repositories.EfUsersRepository::.ctor(OpenChat.Infrastructure.Persistence.OpenChatDbContext)
+FNDA:0,System.Void OpenChat.Infrastructure.Persistence.Repositories.EfUsersRepository::.ctor(OpenChat.Infrastructure.Persistence.OpenChatDbContext)
+DA:12,0
+DA:13,0
+DA:15,0
+DA:16,0
+DA:17,0
+BRDA:15,11,0,0
+BRDA:15,11,1,0
+LF:32
+LH:0
+BRF:10
+BRH:0
+FNF:5
+FNH:0
+end_of_record
+SF:C:\TestProjects\cleancoders_openchat_dotnet\OpenChat.Infrastructure\Persistence\Repositories\InMemoryPostsRepository.cs
+FN:9,System.Void OpenChat.Infrastructure.Persistence.Repositories.InMemoryPostsRepository::Add(OpenChat.Domain.Posts.Post)
+FNDA:3,System.Void OpenChat.Infrastructure.Persistence.Repositories.InMemoryPostsRepository::Add(OpenChat.Domain.Posts.Post)
+DA:10,3
+DA:11,3
+DA:12,3
+DA:13,3
+FN:15,System.Collections.Generic.IEnumerable`1<OpenChat.Domain.Posts.Post> OpenChat.Infrastructure.Persistence.Repositories.InMemoryPostsRepository::GetForUser(System.String)
+FNDA:1,System.Collections.Generic.IEnumerable`1<OpenChat.Domain.Posts.Post> OpenChat.Infrastructure.Persistence.Repositories.InMemoryPostsRepository::GetForUser(System.String)
+DA:16,1
+DA:17,3
+DA:18,1
+FN:6,System.Void OpenChat.Infrastructure.Persistence.Repositories.InMemoryPostsRepository::.ctor()
+FNDA:10,System.Void OpenChat.Infrastructure.Persistence.Repositories.InMemoryPostsRepository::.ctor()
+DA:7,10
+LF:8
+LH:8
+BRF:0
+BRH:0
+FNF:3
+FNH:3
+end_of_record
+SF:C:\TestProjects\cleancoders_openchat_dotnet\OpenChat.Infrastructure\Persistence\Repositories\InMemoryRepository.cs
+FN:6,System.Void OpenChat.Infrastructure.Persistence.Repositories.InMemoryRepository`1::SetId(TEntity)
+FNDA:3,System.Void OpenChat.Infrastructure.Persistence.Repositories.InMemoryRepository`1::SetId(TEntity)
+DA:7,3
+DA:8,3
+DA:9,3
+DA:10,3
+DA:11,3
+LF:5
+LH:5
+BRF:0
+BRH:0
+FNF:1
+FNH:1
+end_of_record
+SF:C:\TestProjects\cleancoders_openchat_dotnet\OpenChat.Infrastructure\Persistence\Repositories\InMemoryUsersRepository.cs
+FN:15,OpenChat.Domain.Users.User OpenChat.Infrastructure.Persistence.Repositories.InMemoryUsersRepository::Add(OpenChat.Domain.Users.User)
+FNDA:12,OpenChat.Domain.Users.User OpenChat.Infrastructure.Persistence.Repositories.InMemoryUsersRepository::Add(OpenChat.Domain.Users.User)
+DA:16,12
+DA:17,12
+DA:18,0
+DA:19,0
+DA:22,12
+DA:24,12
+DA:25,12
+BRDA:17,7,0,0
+BRDA:17,7,1,12
+FN:27,OpenChat.Domain.Users.User OpenChat.Infrastructure.Persistence.Repositories.InMemoryUsersRepository::GetById(System.String)
+FNDA:4,OpenChat.Domain.Users.User OpenChat.Infrastructure.Persistence.Repositories.InMemoryUsersRepository::GetById(System.String)
+DA:28,4
+DA:29,4
+DA:31,4
+DA:33,4
+DA:34,4
+FN:36,System.Boolean OpenChat.Infrastructure.Persistence.Repositories.InMemoryUsersRepository::DoesUsernameExists(System.String)
+FNDA:15,System.Boolean OpenChat.Infrastructure.Persistence.Repositories.InMemoryUsersRepository::DoesUsernameExists(System.String)
+DA:37,15
+DA:38,15
+DA:39,0
+DA:40,0
+DA:43,18
+DA:44,15
+BRDA:38,27,0,0
+BRDA:38,27,1,15
+FN:46,System.Collections.Generic.IEnumerable`1<OpenChat.Domain.Users.User> OpenChat.Infrastructure.Persistence.Repositories.InMemoryUsersRepository::Get(System.Linq.Expressions.Expression`1<System.Func`2<OpenChat.Domain.Users.User,System.Boolean>>)
+FNDA:6,System.Collections.Generic.IEnumerable`1<OpenChat.Domain.Users.User> OpenChat.Infrastructure.Persistence.Repositories.InMemoryUsersRepository::Get(System.Linq.Expressions.Expression`1<System.Func`2<OpenChat.Domain.Users.User,System.Boolean>>)
+DA:47,6
+DA:48,6
+DA:49,0
+DA:50,0
+DA:53,6
+DA:54,6
+BRDA:48,7,0,0
+BRDA:48,7,1,6
+FN:56,OpenChat.Domain.Users.User OpenChat.Infrastructure.Persistence.Repositories.InMemoryUsersRepository::Copy(OpenChat.Domain.Users.User)
+FNDA:12,OpenChat.Domain.Users.User OpenChat.Infrastructure.Persistence.Repositories.InMemoryUsersRepository::Copy(OpenChat.Domain.Users.User)
+DA:57,12
+DA:58,12
+DA:59,12
+DA:60,12
+DA:61,12
+DA:62,12
+DA:63,12
+DA:64,12
+FN:9,System.Void OpenChat.Infrastructure.Persistence.Repositories.InMemoryUsersRepository::.ctor()
+FNDA:20,System.Void OpenChat.Infrastructure.Persistence.Repositories.InMemoryUsersRepository::.ctor()
+DA:10,20
+DA:11,20
+DA:12,20
+DA:13,20
+LF:36
+LH:30
+BRF:6
+BRH:3
+FNF:6
+FNH:6
+end_of_record

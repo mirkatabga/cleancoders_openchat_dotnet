@@ -1,0 +1,15 @@
+C:\TestProjects\cleancoders_openchat_dotnet\OpenChat.Tests.Common\bin\Debug\net6.0\OpenChat.Tests.Common.deps.json
+C:\TestProjects\cleancoders_openchat_dotnet\OpenChat.Tests.Common\bin\Debug\net6.0\OpenChat.Tests.Common.dll
+C:\TestProjects\cleancoders_openchat_dotnet\OpenChat.Tests.Common\bin\Debug\net6.0\OpenChat.Tests.Common.pdb
+C:\TestProjects\cleancoders_openchat_dotnet\OpenChat.Tests.Common\bin\Debug\net6.0\OpenChat.Domain.dll
+C:\TestProjects\cleancoders_openchat_dotnet\OpenChat.Tests.Common\bin\Debug\net6.0\OpenChat.Domain.pdb
+C:\TestProjects\cleancoders_openchat_dotnet\OpenChat.Tests.Common\obj\Debug\net6.0\OpenChat.Tests.Common.csproj.AssemblyReference.cache
+C:\TestProjects\cleancoders_openchat_dotnet\OpenChat.Tests.Common\obj\Debug\net6.0\OpenChat.Tests.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\TestProjects\cleancoders_openchat_dotnet\OpenChat.Tests.Common\obj\Debug\net6.0\OpenChat.Tests.Common.AssemblyInfoInputs.cache
+C:\TestProjects\cleancoders_openchat_dotnet\OpenChat.Tests.Common\obj\Debug\net6.0\OpenChat.Tests.Common.AssemblyInfo.cs
+C:\TestProjects\cleancoders_openchat_dotnet\OpenChat.Tests.Common\obj\Debug\net6.0\OpenChat.Tests.Common.csproj.CoreCompileInputs.cache
+C:\TestProjects\cleancoders_openchat_dotnet\OpenChat.Tests.Common\obj\Debug\net6.0\OpenChat.Tests.Common.csproj.CopyComplete
+C:\TestProjects\cleancoders_openchat_dotnet\OpenChat.Tests.Common\obj\Debug\net6.0\OpenChat.Tests.Common.dll
+C:\TestProjects\cleancoders_openchat_dotnet\OpenChat.Tests.Common\obj\Debug\net6.0\refint\OpenChat.Tests.Common.dll
+C:\TestProjects\cleancoders_openchat_dotnet\OpenChat.Tests.Common\obj\Debug\net6.0\OpenChat.Tests.Common.pdb
+C:\TestProjects\cleancoders_openchat_dotnet\OpenChat.Tests.Common\obj\Debug\net6.0\ref\OpenChat.Tests.Common.dll

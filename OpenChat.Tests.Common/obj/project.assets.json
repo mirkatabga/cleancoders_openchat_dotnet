@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "OpenChat.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/OpenChat.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OpenChat.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OpenChat.Domain/1.0.0": {
+      "type": "project",
+      "path": "../OpenChat.Domain/OpenChat.Domain.csproj",
+      "msbuildProject": "../OpenChat.Domain/OpenChat.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "OpenChat.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\mhris\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "c:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Tests.Common\\OpenChat.Tests.Common.csproj",
+      "projectName": "OpenChat.Tests.Common",
+      "projectPath": "c:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Tests.Common\\OpenChat.Tests.Common.csproj",
+      "packagesPath": "C:\\Users\\mhris\\.nuget\\packages\\",
+      "outputPath": "c:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Tests.Common\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\mhris\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "c:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Domain\\OpenChat.Domain.csproj": {
+              "projectPath": "c:\\TestProjects\\cleancoders_openchat_dotnet\\OpenChat.Domain\\OpenChat.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
